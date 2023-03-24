@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "bobby",
+    "edad": "2",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "michi",
+    "edad": "1",
+    "animal": "gato",
+    "color": "cafe",
+    "enfermedad": "tos"
+  },
+  {
+    "nombre": "dofi",
+    "edad": "16",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "viejito"
+  }
+]
